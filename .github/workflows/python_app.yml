@@ -1,4 +1,4 @@
-name: pyhton CI
+name: python CI
 
 #trigger the workflow on any push to  the main branch
 
